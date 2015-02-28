@@ -1,0 +1,25 @@
+{
+    "appKeys": {
+        "money": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kirby@kkohlmorgen.com",
+    "longName": "pbl-ks",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "pbl-ks",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "20099989-833e-4ff2-a3e6-1b35b9eaaa0b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
